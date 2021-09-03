@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hi there 👋</h1>
-<h3 align="center">I'am Manale 👋 a full stack web developer based in morocco and a software engineering.I enjoy building everything from small business sites to rich interactive web apps</h3>
+<h3 align="center">I'am Manale 😄 a full stack web developer based in morocco and a software engineering.I enjoy building everything from small business sites to rich interactive web apps</h3>
 
 - 👨‍💻 All of my projects are available at [https://chakir-manale.github.io/](https://chakir-manale.github.io/)
 
@@ -15,7 +15,9 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"><a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
+<p align="left">
+  <a href="https://www.php.net/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/php/php-icon.svg" alt="php" width="40" height="40"/> </a>
+  <a href="https://symfony.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/symfony/symfony-icon.svg" alt="Symfony" width="40" height="40"/> </a>
 
 
 <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
