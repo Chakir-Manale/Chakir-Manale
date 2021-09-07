@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi there 👋</h1>
 <h3 align="center">I'am Manale 😄 a software engineer and a full stack web developer based in Morocco .I enjoy building everything from small business sites to rich interactive web apps</h3>
-
+<!--
 - 👨‍💻 All of my projects are available at [https://chakir-manale.github.io/](https://chakir-manale.github.io/)
 
 - 📫 How to reach me via email **chakirmanale@gmail.com**
@@ -11,7 +11,7 @@
 <p align="left">
 <a href="https://ma.linkedin.com/in/manale-chakir-924a6b158" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://ma.linkedin.com/in/manale-chakir-924a6b158" height="30" width="40" /></a><a href="https://www.facebook.com/ma.nale.3382/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="https://www.facebook.com/ma.nale.3382/" height="30" width="40" /></a>
 </p>
-
+-->
 <h3 align="left">Languages and tools I use:</h3>
 <p align="left">
   <a href="https://www.php.net/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/php/php-icon.svg" alt="php" width="40" height="40"/> </a>
