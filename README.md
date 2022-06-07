@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hi there 👋</h1>
-<h3 align="center">I'am Manale 😄 a software engineer and a full stack web developer based in Morocco .I enjoy building everything from small business sites to rich interactive web apps</h3>
+<h3 align="center">I'm Manale 😄 a software engineer and a full stack web developer based in Morocco .I enjoy building everything from small business sites to rich interactive web apps</h3>
 <!--
 - 👨‍💻 All of my projects are available at [https://chakir-manale.github.io/](https://chakir-manale.github.io/)
 
